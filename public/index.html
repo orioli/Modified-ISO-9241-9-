@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Extended Fitts' Law Experiment - Two Runs with Size Attribute</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      width: 100%;
+      overflow: hidden;
+      background-color: rgba(0, 0, 0, 0.9);
+    }
+    /* The target’s position and size are set dynamically */
+    #target {
+      position: absolute;
+      cursor: pointer;
+    }
+    #results {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: white;
+      padding: 20px;
+      border: 1px solid black;
+      font-family: sans-serif;
+      text-align: center;
+      max-height: 80%;
+      overflow-y: auto;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      margin-top: 20px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+  <!-- The target element will be repositioned -->
+  <div id="target"></div>
+  <!-- Container for messages and results -->
+  <div id="results" style="display: none;"></div>
+  <script>
+    /*  
+       Define the circuit positions with a "size" attribute.
+       This run has 9 positions (i.e. 8 moves):
+       
+       1. Top Left (start)
+       2. Bottom Right
+       3. Top Right
+       4. Bottom Left
+       5. Back to Top Left
+       6. Top Left -> Top Right
+       7. Top Right -> Bottom Right
+       8. Bottom Right -> Bottom Left
+       9. Bottom Left -> Top Left (finish)
+       
+       All positions use a 30px offset from the borders.
+       For run 1, the size will be "50px".
+    */
+    
+    const w = 400; // Size of the square
+    const centerX = window.innerWidth / 2;
+    const centerY = window.innerHeight / 2;
+
+    // Define the four corners of the square
+    const top_left = { left: `${centerX - w / 2}px`, top: `${centerY - w / 2}px` };
+    const top_right = { left: `${centerX + w / 2}px`, top: `${centerY - w / 2}px` };
+    const bottom_right = { left: `${centerX + w / 2}px`, top: `${centerY + w / 2}px` };
+    const bottom_left = { left: `${centerX - w / 2}px`, top: `${centerY + w / 2}px` };
+
+    /*
+    // Define the circuit positions by reusing the corner definitions
+    const circuitPositionsRun1 = [
+        { ...top_left, color: "red", size: "50px" },
+        { ...top_right, color: "blue", size: "50px" },
+        { ...bottom_right, color: "red", size: "50px" },
+        { ...bottom_left, color: "blue", size: "50px" },
+        { ...top_left, color: "red", size: "50px" },
+        { ...top_right, color: "blue", size: "50px" },
+        { ...bottom_right, color: "red", size: "50px" },
+        { ...bottom_left, color: "blue", size: "50px" },
+        { ...top_left, color: "red", size: "50px" }
+    ];
+
+console.log(circuitPositionsRun1);
+*/
+    
+    
+    const circuitPositionsRun1 = [
+      { top: "50px", left: "50px", color: "red", size: "50px" },        // 1. Top Left
+      { bottom: "50px", right: "50px", color: "blue", size: "50px" },     // 2. Bottom Right
+      { top: "50px", right: "50px", color: "red", size: "50px" },         // 3. Top Right
+      { bottom: "50px", left: "50px", color: "blue", size: "50px" },       // 4. Bottom Left
+      { top: "50px", left: "50px", color: "red", size: "50px" },          // 5. Back to Top Left
+      { top: "50px", right: "50px", color: "blue", size: "50px" },         // 6. Top Left -> Top Right
+      { bottom: "50px", right: "50px", color: "red", size: "50px" },        // 7. Top Right -> Bottom Right
+      { bottom: "50px", left: "50px", color: "blue", size: "50px" },        // 8. Bottom Right -> Bottom Left
+      { top: "50px", left: "50px", color: "red", size: "50px" }            // 9. Bottom Left -> Top Left (finish)
+    ];
+    
+    // For run 2, we can create a new positions array by mapping over run 1 and updating the size to "50px".
+    const circuitPositionsRun2 = circuitPositionsRun1.map(pos => ({
+      ...pos,
+      size: "12px"
+    }));
+    
+
+
+    // We'll use a variable to hold the positions for the current run.
+    let currentPositions = circuitPositionsRun1;
+    let totalTrials = currentPositions.length;
+    
+    // Run control variables.
+    let runNumber = 1; // 1 for run 1; 2 for run 2.
+    let currentTrial = 0;
+    let trialStartTime = null;
+    
+    // Arrays to record reaction times for each run.
+    let run1ValidClickTimes = [];
+    let run1ErrorClickTimes = [];
+    let run2ValidClickTimes = [];
+    let run2ErrorClickTimes = [];
+    
+    const target = document.getElementById("target");
+    const resultsDiv = document.getElementById("results");
+    
+    let mouseX = null;
+    let mouseY = null;
+
+    // Track mouse position globally
+    document.addEventListener("mousemove", function (e) {
+      mouseX = e.clientX;
+      mouseY = e.clientY;
+    });
+
+
+
+    // Set the target's position, color, and size using the properties in the position object.
+    function setTargetPosition(pos) {
+      // Clear previous positioning.
+      target.style.top = "";
+      target.style.left = "";
+      target.style.right = "";
+      target.style.bottom = "";
+      
+      if (pos.top) target.style.top = pos.top;
+      if (pos.left) target.style.left = pos.left;
+      if (pos.right) target.style.right = pos.right;
+      if (pos.bottom) target.style.bottom = pos.bottom;
+      
+      // Set target color.
+      target.style.backgroundColor = pos.color;
+      
+      // Use the "size" attribute from the position.
+      target.style.width = pos.size;
+      target.style.height = pos.size;
+    }
+    
+    // Show the next target for the current run.
+    function showNextTarget() {
+      console.log("showNextTarget(): currentTrial =", currentTrial, "of", totalTrials);
+      if (currentTrial < totalTrials) {
+        const pos = currentPositions[currentTrial];
+        setTargetPosition(pos);
+        target.style.display = "block";
+        trialStartTime = performance.now();
+      } else {
+        console.log("No more trials; calling finishRun()");
+        finishRun();
+      }
+}
+
+    
+function finishRun() {
+  console.log("finishRun() called, runNumber:", runNumber);
+  target.style.display = "none";
+  if (runNumber === 1) {
+    // Run 1 complete – show the "start Run 2" UI
+    resultsDiv.style.display = "block";
+    resultsDiv.innerHTML = '<h2>Run 1 Complete</h2><button id="startRun2">Start Run 2 (50px targets)</button>';
+
+    // 1) Define a single function that starts Run 2
+    function startRun2() {
+      // Hide the results div
+      resultsDiv.style.display = "none";
+      // Switch runNumber to 2
+      runNumber = 2;
+      // Update positions/number of trials
+      currentPositions = circuitPositionsRun2;
+      totalTrials = currentPositions.length;
+      currentTrial = 0;
+
+      // 3) IMPORTANT: Remove the keydown listener once we proceed
+      document.removeEventListener("keydown", keyHandlerForRun2);
+
+      // Start the next trial
+      showNextTarget();
+    }
+
+    // 2) The "Start Run 2" button calls the same function
+    document.getElementById("startRun2").addEventListener("click", startRun2);
+
+    // 3) Add a keydown listener that also calls startRun2()
+    function keyHandlerForRun2(e) {
+      // If user presses ANY key, we proceed. 
+      // (Optionally, check for a specific key or condition.)
+      startRun2();
+    }
+    document.addEventListener("keydown", keyHandlerForRun2);
+
+  } else {
+    // If runNumber is not 1, that means we're finishing run 2, so show final results
+    showResults();
+  }
+}
+
+
+
+
+
+
+function recordResponse(isValidClick, eventType) {
+  const now = performance.now();
+  if (runNumber === 1) {
+      if (isValidClick) {
+          run1ValidClickTimes.push(now - trialStartTime);
+      } else {
+          run1ErrorClickTimes.push(now - trialStartTime);
+      }
+  } else {
+      if (isValidClick) {
+          run2ValidClickTimes.push(now - trialStartTime);
+      } else {
+          run2ErrorClickTimes.push(now - trialStartTime);
+      }
+  }
+  console.log(`${eventType} recorded at ${now - trialStartTime}ms`);
+}
+
+// Handle clicks (including target clicks and off-target clicks)
+document.addEventListener("click", function (e) {
+  // Only consider clicks if the target is visible.
+  if (target.style.display !== "none") {
+    // If the click was on the target, it's valid.
+    if (e.target === target) {
+      recordResponse(true, "Valid Click");
+      target.style.display = "none";
+      currentTrial++;
+      setTimeout(showNextTarget, 100);
+      // Stop here so we don't record it as an error below.
+      return;
+    }
+    // Otherwise, if the target is visible but user clicked elsewhere:
+    recordResponse(false, "Error Click");
+  }
+});
+
+
+document.addEventListener("keydown", function (e) {
+  // If the target is hidden, it's still an error, no matter what
+  if (target.style.display === "none") {
+    recordResponse(false, `Keypress (${e.key}) - target hidden`);
+    return;
+  }
+  
+  // If the target is visible, let's see if the mouse is actually over the target's bounding box.
+  const rect = target.getBoundingClientRect();
+  // boundingClientRect gives us top/left/right/bottom in terms of screen positions
+  if (
+    mouseX >= rect.left &&
+    mouseX <= rect.right &&
+    mouseY >= rect.top &&
+    mouseY <= rect.bottom
+  ) {
+    // Mouse is actually over the target region
+    recordResponse(true, `Keypress (${e.key}) - pointer over target`);
+    target.style.display = "none";
+    currentTrial++;
+    setTimeout(showNextTarget, 100);
+  } else {
+    // Mouse is somewhere else on the screen
+    recordResponse(false, `Keypress (${e.key}) - pointer NOT over target`);
+  }
+});
+
+
+    // Display final results.
+function showResults() {
+  target.style.display = "none";
+  resultsDiv.style.display = "block";
+  let output = "<h2>Final Results</h2>";
+  
+  output += "<h3>Run 1 (100px targets):</h3>";
+  output += "<p><strong>Valid Click Intervals (ms):</strong></p><ul>";
+  run1ValidClickTimes.forEach((time, index) => {
+     output += `<li>Move ${index + 1}: ${time.toFixed(2)} ms</li>`;
+  });
+  output += "</ul>";
+  output += "<p><strong>Error (Missclick) Intervals (ms):</strong></p>";
+  if (run1ErrorClickTimes.length > 0) {
+     output += "<ul>";
+     run1ErrorClickTimes.forEach((time, index) => {
+        output += `<li>Error ${index + 1}: ${time.toFixed(2)} ms</li>`;
+     });
+     output += "</ul>";
+  } else {
+     output += "<p>No error clicks recorded in Run 1.</p>";
+  }
+  
+  output += "<h3>Run 2 (50px targets):</h3>";
+  output += "<p><strong>Valid Click Intervals (ms):</strong></p><ul>";
+  run2ValidClickTimes.forEach((time, index) => {
+     output += `<li>Move ${index + 1}: ${time.toFixed(2)} ms</li>`;
+  });
+  output += "</ul>";
+  output += "<p><strong>Error (Missclick) Intervals (ms):</strong></p>";
+  if (run2ErrorClickTimes.length > 0) {
+     output += "<ul>";
+     run2ErrorClickTimes.forEach((time, index) => {
+        output += `<li>Error ${index + 1}: ${time.toFixed(2)} ms</li>`;
+     });
+     output += "</ul>";
+  } else {
+     output += "<p>No error clicks recorded in Run 2.</p>";
+  }
+  
+  // Instead of "Next Participant", show a "FINISH" button.
+  output += '<button id="finishButton">FINISH</button>';
+  resultsDiv.innerHTML = output;
+  
+  // When FINISH is clicked, replace the results with a form for additional details.
+  document.getElementById("finishButton").addEventListener("click", function() {
+    let formHtml = "<h2>Please provide additional details</h2>";
+    formHtml += '<form id="resultForm" action="/save_results" method="POST">';
+    formHtml += '<label for="participantId">Participant ID (email):</label>';
+    formHtml += '<input type="text" name="participantId" id="participantId" required><br>';
+    formHtml += '<label for="mouseType">Mouse Type:</label>';
+    formHtml += '<input type="text" name="mouseType" id="mouseType" required><br>';
+    // Include hidden fields to pass run results as comma-separated strings.
+        
+    let r1topost = run1ValidClickTimes.map((time, index) => 
+    `Move ${index + 1}: ${time.toFixed(2)} ms`);
+    formHtml += '<input type="hidden" name="run1Valid" value="' + r1topost.join(",") + '">';
+
+    let e1topost = run1ErrorClickTimes.map((time, index) => 
+    `Error ${index + 1}: ${time.toFixed(2)} ms`);
+    formHtml += '<input type="hidden" name="run1Errors" value="' + e1topost.join(",") + '">';
+
+    let r2topost = run2ValidClickTimes.map((time, index) => 
+    `Move ${index + 1}: ${time.toFixed(2)} ms`);
+
+    formHtml += '<input type="hidden" name="run2Valid" value="' + r2topost.join(",") + '">';
+    
+    let e2topost = run2ErrorClickTimes.map((time, index) => 
+    `Error ${index + 1}: ${time.toFixed(2)} ms`);
+    formHtml += '<input type="hidden" name="run2Errors" value="' + e2topost.join(",") + '">';
+
+
+    formHtml += '<button type="submit">Submit Results</button>';
+    formHtml += '</form>';
+    resultsDiv.innerHTML = formHtml;
+  });
+}
+
+    // Start the experiment (run 1) on page load.
+    document.addEventListener("DOMContentLoaded", function() {
+      document.documentElement.requestFullscreen().catch(err => {
+         console.log("Fullscreen mode not activated:", err);
+      });
+      showNextTarget();
+    });
+  </script>
+</body>
+</html>
