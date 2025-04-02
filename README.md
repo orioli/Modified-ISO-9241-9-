@@ -22,7 +22,6 @@ The demo above shows the app in action. You can try it yourself by following the
 ### Installation & Running
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-npm install
+git clone https://github.com/orioli/Modified-ISO-9241-9-
+cd 
 node server.js
