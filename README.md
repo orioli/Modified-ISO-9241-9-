@@ -2,7 +2,7 @@
 
 ![Demo](demo.gif)
 ![Demo](topview.png)
-[Video](Fig8_trackpad_n_mouse_view.MOV)
+![Fleximouse Video](Fig8_trackpad_n_mouse_view.MOV)
 ## 📦 Overview
 
 This project demonstrates a modified iso 9241-9 test to cover corners. The times are recorded in a csv file. Edit traget sizes in the index.
