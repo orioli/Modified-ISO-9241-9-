@@ -2,7 +2,7 @@
 
 ![Demo](demo.gif)
 ![Demo](topview.png)
-![Fleximouse Video](./Fig8_trackpad_n_mouse_view.MOV)
+
 
 ## 📦 Overview
 
