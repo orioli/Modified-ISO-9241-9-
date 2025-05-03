@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7b26dd89-af07-494f-a26f-278b9a920f52)# 🖥️ Fitts law iso 9241-9 long range test mod 
+# 🖥️ Fitts law iso 9241-9 long range test mod 
 
 ![Demo](demo.gif)
 ![Demo](topview.png)
