@@ -1,3 +1,10 @@
+<video controls width="100%">
+  <source src="./Fig8_trackpad_n_mouse_view.MOV" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Forioli%2FModified-ISO-9241-9-%2Fblob%2Fmain%2FREADME.md
+
 # 🖥️ Fitts law iso 9241-9 long range test mod 
 
 ![Demo](demo.gif)
