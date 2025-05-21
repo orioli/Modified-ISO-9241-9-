@@ -7,7 +7,7 @@ Watch the video here: [Youtube](https://youtube.com/playlist?list=PL8Ob471RcQSDt
 
 ## 📦 Overview
 
-This project demonstrates a modified iso 9241-9 test to cover corners. The times are recorded in a csv file. Edit traget sizes in the index.
+This project demonstrates a modified iso 9241-9 test to cover corners. The times are recorded in a csv file. Edit target sizes in the index file.
 
 - [preprint](http://dx.doi.org/10.13140/RG.2.2.15783.25762) 
 - [STL files body](https://www.crealitycloud.com/model-detail/6644218123c97821105231e2)
