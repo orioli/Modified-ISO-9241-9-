@@ -39,9 +39,12 @@ Since its first public appearance in 1968, the computer mouse has fundamentally 
 A provisional patent application related to this work has been filed (U.S. Provisional Application No. 63/768,137, filed March 6, 2025, Patent Pending) with help of KTH Innovation’s Patrik Lundmark and Thorun Grenmark. We gratefully acknowledge Jörg Conrad, Neuromorphic Lab (KTH. Linda Kan (KTH) offered long-term user feedback. 
 
 ### REFERENCES 
-[1]	D. C. Engelbart and W. K. English, “A research center for augmenting human intellect,” in Proceedings of the December 9-11, 1968, fall joint computer conference, part I on - AFIPS ’68 (Fall, part I), San Francisco, California: ACM Press, 1968, p. 395. doi: 10.1145/1476589.1476645.
-[2]	D. Odell and P. Johnson, “Evaluation of flat, angled, and vertical computer mice and their effects on wrist posture, pointing performance, and preference,” WOR, vol. 52, no. 2, pp. 245–253, Sep. 2015, doi: 10.3233/WOR-152167.
-[3]	B. Demissie, E. T. Bayih, and A. A. Demmelash, “A systematic review of work-related musculoskeletal disorders and risk factors among computer users,” Heliyon, vol. 10, no. 3, p. e25075, Feb. 2024, doi: 10.1016/j.heliyon.2024.e25075.
-[4]	B. Basakci Calik, Y. Nesrin, O. Mucahit, and C. Derya, “Effects of risk factors related to computer use on musculoskeletal pain in office workers,” International Journal of Occupational Safety and Ergonomics, vol. 28, no. 1, pp. 269–274, Jan. 2022, doi: 10.1080/10803548.2020.1765112.
+
+- [1]	D. C. Engelbart and W. K. English, “A research center for augmenting human intellect,” in Proceedings of the December 9-11, 1968, fall joint computer conference, part I on - AFIPS ’68 (Fall, part I), San Francisco, California: ACM Press, 1968, p. 395. doi: 10.1145/1476589.1476645.
+
+- [2]	D. Odell and P. Johnson, “Evaluation of flat, angled, and vertical computer mice and their effects on wrist posture, pointing performance, and preference,” WOR, vol. 52, no. 2, pp. 245–253, Sep. 2015, doi: 10.3233/WOR-152167.
+
+- [3]	B. Demissie, E. T. Bayih, and A. A. Demmelash, “A systematic review of work-related musculoskeletal disorders and risk factors among computer users,” Heliyon, vol. 10, no. 3, p. e25075, Feb. 2024, doi: 10.1016/j.heliyon.2024.e25075.
+- [4]	B. Basakci Calik, Y. Nesrin, O. Mucahit, and C. Derya, “Effects of risk factors related to computer use on musculoskeletal pain in office workers,” International Journal of Occupational Safety and Ergonomics, vol. 28, no. 1, pp. 269–274, Jan. 2022, doi: 10.1080/10803548.2020.1765112.
 
 
