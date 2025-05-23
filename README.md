@@ -1,8 +1,8 @@
 # Fleximouse ergodesign
 Watch the video here: [Youtube](https://youtube.com/playlist?list=PL8Ob471RcQSDtlxx66lxihxfww_0dLFrz&si=DlGAZF54hJgAhNmD)
 
-![Demo](demo.gif)
-![Demo](topview.png)
+![Demo](demo.gif)  Pat. Pend.
+![Demo](topview.png) pat. Pend.
 
 
 ## 📦 Overview
