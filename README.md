@@ -3,14 +3,6 @@
 " target="_blank">
   <img src="featured_ber.png" alt="Knowridge" height="40"/>
 </a>
-<a href="https://www.hackster.io/news/researchers-want-to-save-your-wrists-with-a-squishy-take-on-the-classic-mouse-78112a03937d" target="_blank">
-
-</a>
-
-
-
-
-
 <a href="https://gizmo.md/2025/09/05/rethinking-the-computer-mouse-to-reduce-wrist-strain/" target="_blank">
 gizmo</a>
 <a href="https://knowridge.com/2025/09/scientists-create-ergonomic-computer-mice-inspired-by-hand-comfort/" target="_blank">
@@ -20,6 +12,9 @@ alphagalileo</a>
 <a href="https://www.msn.com/en-us/news/technology/flexible-ergonomics-researchers-explore-new-computer-mouse-designs/ar-AA1LT843?ocid=BingNewsVerp
 " target="_blank">
 TechXplore</a>
+<a href="https://www.hackster.io/news/researchers-want-to-save-your-wrists-with-a-squishy-take-on-the-classic-mouse-78112a03937d" target="_blank">
+hackster.io
+</a>
 
 ### Fleximouse
 Watch the video here: [Youtube](https://youtube.com/playlist?list=PL8Ob471RcQSDtlxx66lxihxfww_0dLFrz&si=DlGAZF54hJgAhNmD)
