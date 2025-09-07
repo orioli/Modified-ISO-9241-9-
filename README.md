@@ -4,7 +4,7 @@
   <img src="featured_ber.png" alt="Knowridge" height="40"/>
 </a>
 <a href="https://www.hackster.io/news/researchers-want-to-save-your-wrists-with-a-squishy-take-on-the-classic-mouse-78112a03937d" target="_blank">
-  <img src="featured_ber.png" alt="Knowridge" height="40"/>
+
 </a>
 
 
