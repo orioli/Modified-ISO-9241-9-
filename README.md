@@ -4,28 +4,27 @@
   <img src="featured_ber.png" alt="Knowridge" height="40"/>
 </a>
 
-### Featured in
 
+
+
+<a href="https://gizmo.md/2025/09/05/rethinking-the-computer-mouse-to-reduce-wrist-strain/" target="_blank">
+gizmo</a>
+<a href="https://knowridge.com/2025/09/scientists-create-ergonomic-computer-mice-inspired-by-hand-comfort/" target="_blank">
+knowridge</a>
+<a href="https://www.alphagalileo.org/en-gb/Item-Display/ItemId/262707" target="_blank">
+alphagalileo</a>
 <a href="https://www.msn.com/en-us/news/technology/flexible-ergonomics-researchers-explore-new-computer-mouse-designs/ar-AA1LT843?ocid=BingNewsVerp
 " target="_blank">
 TechXplore</a>
-<a href="https://gizmo.md/2025/09/05/rethinking-the-computer-mouse-to-reduce-wrist-strain/" target="_blank">
-gizmo</a>
 
-<a href="https://knowridge.com/2025/09/scientists-create-ergonomic-computer-mice-inspired-by-hand-comfort/" target="_blank">
-knowridge</a>
-
-<a href="https://www.alphagalileo.org/en-gb/Item-Display/ItemId/262707" target="_blank">
-alphagalileo</a>
-
-# Fleximouse
+### Fleximouse
 Watch the video here: [Youtube](https://youtube.com/playlist?list=PL8Ob471RcQSDtlxx66lxihxfww_0dLFrz&si=DlGAZF54hJgAhNmD)
 
 ![Demo](demo.gif)  Pat. Pend.
 ![Demo](topview.png) pat. Pend.
 
 
-## 📦 Overview
+### 📦 Overview
 
 This project demonstrates a modified iso 9241-9 test to cover corners. The times are recorded in a csv file. Edit target sizes in the index file.
 
@@ -38,7 +37,7 @@ The demo above shows the app in action. You can try it yourself by following the
 
 ---
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 ### 🖥️ Software to test Fitts law with a mod of iso 9241-9 test 
 
 ### Requirements
