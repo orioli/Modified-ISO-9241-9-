@@ -3,6 +3,7 @@
 " target="_blank">
   <img src="featured_ber.png" alt="Knowridge" height="40"/>
 </a>
+
 <a href="https://gizmo.md/2025/09/05/rethinking-the-computer-mouse-to-reduce-wrist-strain/" target="_blank">
 gizmo</a>
 <a href="https://knowridge.com/2025/09/scientists-create-ergonomic-computer-mice-inspired-by-hand-comfort/" target="_blank">
