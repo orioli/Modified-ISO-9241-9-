@@ -1,15 +1,22 @@
 
+<a href="https://www.msn.com/en-us/news/technology/flexible-ergonomics-researchers-explore-new-computer-mouse-designs/ar-AA1LT843?ocid=BingNewsVerp
+" target="_blank">
+  <img src="featured_ber.png" alt="Knowridge" height="40"/>
+</a>
+
 ### Featured in
 
-<a href="https://knowridge.com/2025/09/scientists-create-ergonomic-computer-mice-inspired-by-hand-comfort/" target="_blank">
-  <img src="URL_TO_KNOWRIDGE_LOGO" alt="Knowridge" height="40"/>
-</a>
-<a href="https://www.alphagalileo.org/en-gb/Item-Display/ItemId/262707" target="_blank">
-  <img src="URL_TO_ALPHAGALILEO_LOGO" alt="AlphaGalileo" height="40"/>
-</a>
+<a href="https://www.msn.com/en-us/news/technology/flexible-ergonomics-researchers-explore-new-computer-mouse-designs/ar-AA1LT843?ocid=BingNewsVerp
+" target="_blank">
+TechXplore</a>
 <a href="https://gizmo.md/2025/09/05/rethinking-the-computer-mouse-to-reduce-wrist-strain/" target="_blank">
-  <img src="URL_TO_GIZMO_MD_LOGO" alt="Gizmo.md" height="40"/>
-</a>
+gizmo</a>
+
+<a href="https://knowridge.com/2025/09/scientists-create-ergonomic-computer-mice-inspired-by-hand-comfort/" target="_blank">
+knowridge</a>
+
+<a href="https://www.alphagalileo.org/en-gb/Item-Display/ItemId/262707" target="_blank">
+alphagalileo</a>
 
 # Fleximouse
 Watch the video here: [Youtube](https://youtube.com/playlist?list=PL8Ob471RcQSDtlxx66lxihxfww_0dLFrz&si=DlGAZF54hJgAhNmD)
