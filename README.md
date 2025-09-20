@@ -69,5 +69,19 @@ A provisional patent application related to this work has been filed (U.S. Provi
 
 -  <a href="https://dl.acm.org/doi/10.1145/3759241"> ACM Interactions feature</a>
   
+### 🖱️ Fleximouse / Squeezable Mouse Media Mentions
 
+| Outlet | Title | Link |
+|---|---|---|
+| **Popular Science** | Researchers created a soft squeezable computer mouse | [popsci.com](https://www.popsci.com/technology/squeezable-computer-mouse/) |
+| **LiveScience** | Farewell to the computer mouse? Bizarre new designs could reduce wrist injuries, scientists say | [livescience.com](https://www.livescience.com/technology/computing/farewell-to-the-computer-mouse-bizarre-new-designs-could-reduce-wrist-injuries-scientists-say) |
+| **TechXplore** | Flexible ergonomics: Researchers explore new computer mouse designs | [techxplore.com](https://techxplore.com/news/2025-09-flexible-ergonomics-explore-mouse.html) |
+| **Knowridge** | Scientists create ergonomic computer mice inspired by hand comfort | [knowridge.com](https://knowridge.com/2025/09/scientists-create-ergonomic-computer-mice-inspired-by-hand-comfort/) |
+| **Gizmo.md** | Rethinking the computer mouse to reduce wrist strain | [gizmo.md](https://gizmo.md/2025/09/05/rethinking-the-computer-mouse-to-reduce-wrist-strain/) |
+| **Hackster.io** | Researchers Want to Save Your Wrists with a Squishy Take on the Classic Mouse | [hackster.io](https://www.hackster.io/news/researchers-want-to-save-your-wrists-with-a-squishy-take-on-the-classic-mouse-78112a03937d) |
+| **Alphagalileo** | Flexible Ergonomics: Can a Flexible Mouse Fix That Wrist Pain? | [alphagalileo.org](https://www.alphagalileo.org/en-gb/Item-Display/ItemId/262707) |
+| **News-Medical.net** | Research calls for ergonomic redesign of the computer mouse to prevent long-term injury | [news-medical.net](https://www.news-medical.net/news/20250904/Research-calls-for-ergonomic-redesign-of-the-computer-mouse-to-prevent-long-term-injury.aspx) |
+| **Nazarbayev University News** | Redesigning Familiar Computer Mouse – Fleximouse by NU Scientist | [nu.edu.kz](https://nu.edu.kz/en/news/redesigning-familiar-computer-mouse-fleximouse-by-nu-scientist) |
+| **ACM Interactions (Sept–Oct 2025)** | Flexible Ergonomics: Can a Flexible Mouse Fix That Wrist Pain? | [interactions.acm.org](https://interactions.acm.org/archive/view/september-october-2025/flexible-ergonomics-can-a-flexible-mouse-fix-that-wrist-pain) |
+| **ResearchGate Preprint** | Evaluation of a Flexible Ergonomic Mouse | [researchgate.net](https://www.researchgate.net/publication/390246894_Evaluation_of_a_Flexible_Ergonomic_Mouse) |
 
