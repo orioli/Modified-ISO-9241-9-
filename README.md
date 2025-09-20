@@ -1,21 +1,18 @@
+# 🖱️ Fleximouse / Squeezable Mouse Media Mentions
 
-<a href="https://www.msn.com/en-us/news/technology/flexible-ergonomics-researchers-explore-new-computer-mouse-designs/ar-AA1LT843?ocid=BingNewsVerp
-" target="_blank">
-  <img src="featured_ber.png" alt="Knowridge" height="40"/>
-</a>
-
-<a href="https://gizmo.md/2025/09/05/rethinking-the-computer-mouse-to-reduce-wrist-strain/" target="_blank">
-gizmo</a>
-<a href="https://knowridge.com/2025/09/scientists-create-ergonomic-computer-mice-inspired-by-hand-comfort/" target="_blank">
-knowridge</a>
-<a href="https://www.alphagalileo.org/en-gb/Item-Display/ItemId/262707" target="_blank">
-alphagalileo</a>
-<a href="https://www.msn.com/en-us/news/technology/flexible-ergonomics-researchers-explore-new-computer-mouse-designs/ar-AA1LT843?ocid=BingNewsVerp
-" target="_blank">
-TechXplore</a>
-<a href="https://www.hackster.io/news/researchers-want-to-save-your-wrists-with-a-squishy-take-on-the-classic-mouse-78112a03937d" target="_blank">
-hackster.io
-</a>
+| Outlet | Title & Link |
+|---|---|
+| ![Popular Science](https://img.shields.io/badge/Popular%20Science-Article-blue) | [Researchers created a soft squeezable computer mouse](https://www.popsci.com/technology/squeezable-computer-mouse/) |
+| ![LiveScience](https://img.shields.io/badge/LiveScience-Article-green) | [Farewell to the computer mouse? Bizarre new designs could reduce wrist injuries, scientists say](https://www.livescience.com/technology/computing/farewell-to-the-computer-mouse-bizarre-new-designs-could-reduce-wrist-injuries-scientists-say) |
+| ![TechXplore](https://img.shields.io/badge/TechXplore-Article-orange) | [Flexible ergonomics: Researchers explore new computer mouse designs](https://techxplore.com/news/2025-09-flexible-ergonomics-explore-mouse.html) |
+| ![Knowridge](https://img.shields.io/badge/Knowridge-Article-purple) | [Scientists create ergonomic computer mice inspired by hand comfort](https://knowridge.com/2025/09/scientists-create-ergonomic-computer-mice-inspired-by-hand-comfort/) |
+| ![Gizmo.md](https://img.shields.io/badge/Gizmo.md-Article-red) | [Rethinking the computer mouse to reduce wrist strain](https://gizmo.md/2025/09/05/rethinking-the-computer-mouse-to-reduce-wrist-strain/) |
+| ![Hackster.io](https://img.shields.io/badge/Hackster.io-Article-lightgrey) | [Researchers Want to Save Your Wrists with a Squishy Take on the Classic Mouse](https://www.hackster.io/news/researchers-want-to-save-your-wrists-with-a-squishy-take-on-the-classic-mouse-78112a03937d) |
+| ![Alphagalileo](https://img.shields.io/badge/Alphagalileo-Article-yellow) | [Flexible Ergonomics: Can a Flexible Mouse Fix That Wrist Pain?](https://www.alphagalileo.org/en-gb/Item-Display/ItemId/262707) |
+| ![News-Medical.net](https://img.shields.io/badge/News--Medical.net-Article-blueviolet) | [Research calls for ergonomic redesign of the computer mouse to prevent long-term injury](https://www.news-medical.net/news/20250904/Research-calls-for-ergonomic-redesign-of-the-computer-mouse-to-prevent-long-term-injury.aspx) |
+| ![NU News](https://img.shields.io/badge/Nazarbayev%20University-News-informational) | [Redesigning Familiar Computer Mouse – Fleximouse by NU Scientist](https://nu.edu.kz/en/news/redesigning-familiar-computer-mouse-fleximouse-by-nu-scientist) |
+| ![ACM Interactions](https://img.shields.io/badge/ACM%20Interactions-Feature-critical) | [Flexible Ergonomics: Can a Flexible Mouse Fix That Wrist Pain?](https://interactions.acm.org/archive/view/september-october-2025/flexible-ergonomics-can-a-flexible-mouse-fix-that-wrist-pain) |
+| ![ResearchGate](https://img.shields.io/badge/ResearchGate-Preprint-success) | [Evaluation of a Flexible Ergonomic Mouse](https://www.researchgate.net/publication/390246894_Evaluation_of_a_Flexible_Ergonomic_Mouse) |
 
 ### Fleximouse
 Watch the video here: [Youtube](https://youtube.com/playlist?list=PL8Ob471RcQSDtlxx66lxihxfww_0dLFrz&si=DlGAZF54hJgAhNmD)
