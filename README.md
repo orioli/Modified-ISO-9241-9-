@@ -14,6 +14,11 @@
 | ![NU News](https://img.shields.io/badge/Nazarbayev%20University-News-informational) | [Redesigning Familiar Computer Mouse – Fleximouse by NU Scientist](https://nu.edu.kz/en/news/redesigning-familiar-computer-mouse-fleximouse-by-nu-scientist) |
 | ![ACM Interactions](https://img.shields.io/badge/ACM%20Interactions-Feature-critical) | [Flexible Ergonomics: Can a Flexible Mouse Fix That Wrist Pain?](https://interactions.acm.org/archive/view/september-october-2025/flexible-ergonomics-can-a-flexible-mouse-fix-that-wrist-pain) |
 | ![ResearchGate](https://img.shields.io/badge/ResearchGate-Preprint-success) | [Evaluation of a Flexible Ergonomic Mouse](https://www.researchgate.net/publication/390246894_Evaluation_of_a_Flexible_Ergonomic_Mouse) |
+| ![Inkl](https://img.shields.io/badge/Inkl-Article-darkblue) | [Farewell to the computer mouse? Bizarre new designs could reduce wrist injuries, scientists say](https://www.inkl.com/news/farewell-to-the-computer-mouse-bizarre-new-designs-could-reduce-wrist-injuries-scientists-say) |
+| ![Dunya News](https://img.shields.io/badge/Dunya%20News-Article-darkgreen) | [Farewell to computer mouse as two prototype mouse designs developed](https://dunyanews.tv/en/Technology/907711-farewell-to-computer-mouse-as-two-prototype-mouse-designs-developed-) |
+| ![Popular Science Korea](https://img.shields.io/badge/PopSci%20Korea-Article-pink) | [연구진, 손으로 쥘 수 있는 말랑한 컴퓨터 마우스 개발](https://www.popsci.co.kr/news/articleView.html?idxno=23910) |
+| ![Canaltech](https://img.shields.io/badge/Canaltech-Article-brown) | [Adeus, mouse: novos (porém bizarros) formatos reduzirão lesões, aponta estudo](https://canaltech.com.br/saude/adeus-mouse-novos-porem-bizarros-formatos-reduzirao-lesoes-aponta-estudo/) |
+| ![Media Indonesia](https://img.shields.io/badge/Media%20Indonesia-Article-teal) | [Mouse komputer mulai tergusur, inovasi baru lebih sehat untuk pergelangan tangan](https://mediaindonesia.com/teknologi/812953/mouse-komputer-mulai-tergusur-inovasi-baru-lebih-sehat-untuk-pergelangan-tangan#goog_rewarded) |
 
 ### Fleximouse
 Watch the video here: [Youtube](https://youtube.com/playlist?list=PL8Ob471RcQSDtlxx66lxihxfww_0dLFrz&si=DlGAZF54hJgAhNmD)
