@@ -2,6 +2,7 @@
 
 | Outlet | Title & Link |
 |---|---|
+| ![ExtremeTech](https://img.shields.io/badge/Extreme%20Tech-Article-blue) | [Squeezable and A-Frame Mice Could Make Computer Use More Comfortable](https://www.msn.com/en-us/news/technology/squeezable-and-a-frame-mice-could-make-computer-use-more-comfortable/ar-AA1N8uC7?ocid=BingNewsVerp) |
 | ![Popular Science](https://img.shields.io/badge/Popular%20Science-Article-blue) | [Researchers created a soft squeezable computer mouse](https://www.popsci.com/technology/squeezable-computer-mouse/) |
 | ![LiveScience](https://img.shields.io/badge/LiveScience-Article-green) | [Farewell to the computer mouse? Bizarre new designs could reduce wrist injuries, scientists say](https://www.livescience.com/technology/computing/farewell-to-the-computer-mouse-bizarre-new-designs-could-reduce-wrist-injuries-scientists-say) |
 | ![TechXplore](https://img.shields.io/badge/TechXplore-Article-orange) | [Flexible ergonomics: Researchers explore new computer mouse designs](https://techxplore.com/news/2025-09-flexible-ergonomics-explore-mouse.html) |
