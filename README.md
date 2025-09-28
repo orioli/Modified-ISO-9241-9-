@@ -26,6 +26,7 @@
 | 22 | ![Raport](https://img.shields.io/badge/Raport-Newspaper-orange) | [Zaboravite na stari miš: Novi dizajni obećavaju kraj bolnih zglobova](https://raport.ba/zaboravite-na-stari-mis-novi-dizajni-obecavaju-kraj-bolnih-zglobova-ali-izgledaju-precudno/#google_vignette) |
 | 23 | ![4PDA](https://img.shields.io/badge/4PDA-Newspaper-blue) | [«Научные» корпуса для мыши защитят пользователей от туннельного синдрома](https://4pda.to/2025/09/22/447287/nauchnye_korpusa_dlya_myshi_zaschityat_polzovatelej_ot_tunnelnogo_sindroma/) |
 | 24 | ![dzen](https://img.shields.io/badge/dzen-Newspaper-red) | [Исследователи создали мягкую компьютерную мышь, которую можно сжимать](https://dzen.ru/a/aNERk-Ojgg8L84xO) |
+| 25 | ![Gizmo.md](https://img.shields.io/badge/Gizmo.md-Article-red) | [Rethinking the computer mouse to reduce wrist strain](https://gizmo.md/2025/09/05/rethinking-the-computer-mouse-to-reduce-wrist-strain/) |
 
 
 
