@@ -22,8 +22,10 @@
 | ![Popular Science Korea](https://img.shields.io/badge/PopSci%20Korea-Article-pink) | [연구진, 손으로 쥘 수 있는 말랑한 컴퓨터 마우스 개발](https://www.popsci.co.kr/news/articleView.html?idxno=23910) |
 | ![Canaltech](https://img.shields.io/badge/Canaltech-Article-brown) | [Adeus, mouse: novos (porém bizarros) formatos reduzirão lesões, aponta estudo](https://canaltech.com.br/saude/adeus-mouse-novos-porem-bizarros-formatos-reduzirao-lesoes-aponta-estudo/) |
 | ![Media Indonesia](https://img.shields.io/badge/Media%20Indonesia-Article-teal) | [Mouse komputer mulai tergusur, inovasi baru lebih sehat untuk pergelangan tangan](https://mediaindonesia.com/teknologi/812953/mouse-komputer-mulai-tergusur-inovasi-baru-lebih-sehat-untuk-pergelangan-tangan#goog_rewarded) |
-| ![Media Indonesia](https://img.shields.io/badge/Tienphong-Newspaper-teal) | [Thiết kế mới lạ của chuột máy tính giúp giảm chấn thương cổ tay](https://tienphong.vn/thiet-ke-moi-la-cua-chuot-may-tinh-giup-giam-chan-thuong-co-tay-post1780216.tpo) |
-| ![Media Indonesia](https://img.shields.io/badge/Raport-Newspaper-orange) | [Zaboravite na stari miš: Novi dizajni obećavaju kraj bolnih zglobova](https://raport.ba/zaboravite-na-stari-mis-novi-dizajni-obecavaju-kraj-bolnih-zglobova-ali-izgledaju-precudno/#google_vignette) |
+| ![TienPhong](https://img.shields.io/badge/Tienphong-Newspaper-teal) | [Thiết kế mới lạ của chuột máy tính giúp giảm chấn thương cổ tay](https://tienphong.vn/thiet-ke-moi-la-cua-chuot-may-tinh-giup-giam-chan-thuong-co-tay-post1780216.tpo) |
+| ![Raport](https://img.shields.io/badge/Raport-Newspaper-orange) | [Zaboravite na stari miš: Novi dizajni obećavaju kraj bolnih zglobova](https://raport.ba/zaboravite-na-stari-mis-novi-dizajni-obecavaju-kraj-bolnih-zglobova-ali-izgledaju-precudno/#google_vignette) |
+| ![4PDA](https://img.shields.io/badge/4PDA-Newspaper-blue) | [«Научные» корпуса для мыши защитят пользователей от туннельного синдрома](https://4pda.to/2025/09/22/447287/nauchnye_korpusa_dlya_myshi_zaschityat_polzovatelej_ot_tunnelnogo_sindroma/) |
+
 
 
 
