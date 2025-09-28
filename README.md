@@ -2,7 +2,7 @@
 
 | Outlet | Title & Link |
 |---|---|
-| ![CNN Greece](https://img.shields.io/badge/CNN-Greece-News) | [Τέλος στην καταπόνηση του καρπού βάζουν δύο πρωτοποριακά σχέδια για ποντίκια υπολογιστών](https://www.cnn.gr/tech/story/496989/telos-stin-kataponisi-tou-karpoy-vazoun-dyo-protoporiaka-sxedia-gia-pontikia-ypologiston) |
+| ![CNN Greece](https://img.shields.io/badge/CNN-Greece-red) | [Τέλος στην καταπόνηση του καρπού βάζουν δύο πρωτοποριακά σχέδια για ποντίκια υπολογιστών](https://www.cnn.gr/tech/story/496989/telos-stin-kataponisi-tou-karpoy-vazoun-dyo-protoporiaka-sxedia-gia-pontikia-ypologiston) |
 | ![Gigazine](https://img.shields.io/badge/Gigazine-Article-darkred) | [Farewell to the Computer Mouse? New Flexible Designs Aim to Reduce Wrist Injuries](https://gigazine.net/gsc_news/en/20250923-mouse-wrist/) |
 | ![ExtremeTech](https://img.shields.io/badge/Extreme%20Tech-Article-blue) | [Squeezable and A-Frame Mice Could Make Computer Use More Comfortable](https://www.msn.com/en-us/news/technology/squeezable-and-a-frame-mice-could-make-computer-use-more-comfortable/ar-AA1N8uC7?ocid=BingNewsVerp) |
 | ![Popular Science](https://img.shields.io/badge/Popular%20Science-Article-blue) | [Researchers created a soft squeezable computer mouse](https://www.popsci.com/technology/squeezable-computer-mouse/) |
