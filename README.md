@@ -2,7 +2,7 @@
 
 | Outlet | Title & Link |
 |---|---|
-| ![CNN Greece](https://img.shields.io/badge/CNN-greece-News) | [Τέλος στην καταπόνηση του καρπού βάζουν δύο πρωτοποριακά σχέδια για ποντίκια υπολογιστών](https://www.cnn.gr/tech/story/496989/telos-stin-kataponisi-tou-karpoy-vazoun-dyo-protoporiaka-sxedia-gia-pontikia-ypologiston) |
+| ![CNN Greece](https://img.shields.io/badge/CNN-Greece-News) | [Τέλος στην καταπόνηση του καρπού βάζουν δύο πρωτοποριακά σχέδια για ποντίκια υπολογιστών](https://www.cnn.gr/tech/story/496989/telos-stin-kataponisi-tou-karpoy-vazoun-dyo-protoporiaka-sxedia-gia-pontikia-ypologiston) |
 | ![Gigazine](https://img.shields.io/badge/Gigazine-Article-darkred) | [Farewell to the Computer Mouse? New Flexible Designs Aim to Reduce Wrist Injuries](https://gigazine.net/gsc_news/en/20250923-mouse-wrist/) |
 | ![ExtremeTech](https://img.shields.io/badge/Extreme%20Tech-Article-blue) | [Squeezable and A-Frame Mice Could Make Computer Use More Comfortable](https://www.msn.com/en-us/news/technology/squeezable-and-a-frame-mice-could-make-computer-use-more-comfortable/ar-AA1N8uC7?ocid=BingNewsVerp) |
 | ![Popular Science](https://img.shields.io/badge/Popular%20Science-Article-blue) | [Researchers created a soft squeezable computer mouse](https://www.popsci.com/technology/squeezable-computer-mouse/) |
@@ -21,6 +21,9 @@
 | ![Popular Science Korea](https://img.shields.io/badge/PopSci%20Korea-Article-pink) | [연구진, 손으로 쥘 수 있는 말랑한 컴퓨터 마우스 개발](https://www.popsci.co.kr/news/articleView.html?idxno=23910) |
 | ![Canaltech](https://img.shields.io/badge/Canaltech-Article-brown) | [Adeus, mouse: novos (porém bizarros) formatos reduzirão lesões, aponta estudo](https://canaltech.com.br/saude/adeus-mouse-novos-porem-bizarros-formatos-reduzirao-lesoes-aponta-estudo/) |
 | ![Media Indonesia](https://img.shields.io/badge/Media%20Indonesia-Article-teal) | [Mouse komputer mulai tergusur, inovasi baru lebih sehat untuk pergelangan tangan](https://mediaindonesia.com/teknologi/812953/mouse-komputer-mulai-tergusur-inovasi-baru-lebih-sehat-untuk-pergelangan-tangan#goog_rewarded) |
+| ![Media Indonesia](https://img.shields.io/badge/Tienphong-Newspaper-teal) | [Thiết kế mới lạ của chuột máy tính giúp giảm chấn thương cổ tay](https://tienphong.vn/thiet-ke-moi-la-cua-chuot-may-tinh-giup-giam-chan-thuong-co-tay-post1780216.tpo) |
+
+
 
 ### Fleximouse
 Watch the video here: [Youtube](https://youtube.com/playlist?list=PL8Ob471RcQSDtlxx66lxihxfww_0dLFrz&si=DlGAZF54hJgAhNmD)
