@@ -23,6 +23,9 @@
 | ![Canaltech](https://img.shields.io/badge/Canaltech-Article-brown) | [Adeus, mouse: novos (porém bizarros) formatos reduzirão lesões, aponta estudo](https://canaltech.com.br/saude/adeus-mouse-novos-porem-bizarros-formatos-reduzirao-lesoes-aponta-estudo/) |
 | ![Media Indonesia](https://img.shields.io/badge/Media%20Indonesia-Article-teal) | [Mouse komputer mulai tergusur, inovasi baru lebih sehat untuk pergelangan tangan](https://mediaindonesia.com/teknologi/812953/mouse-komputer-mulai-tergusur-inovasi-baru-lebih-sehat-untuk-pergelangan-tangan#goog_rewarded) |
 | ![Media Indonesia](https://img.shields.io/badge/Tienphong-Newspaper-teal) | [Thiết kế mới lạ của chuột máy tính giúp giảm chấn thương cổ tay](https://tienphong.vn/thiet-ke-moi-la-cua-chuot-may-tinh-giup-giam-chan-thuong-co-tay-post1780216.tpo) |
+| ![Media Indonesia](https://img.shields.io/badge/Raport-Newspaper-orange) | [Zaboravite na stari miš: Novi dizajni obećavaju kraj bolnih zglobova](https://raport.ba/zaboravite-na-stari-mis-novi-dizajni-obecavaju-kraj-bolnih-zglobova-ali-izgledaju-precudno/#google_vignette) |
+
+
 
 
 
