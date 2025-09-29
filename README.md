@@ -84,6 +84,9 @@ A provisional patent application related to this work has been filed (U.S. Provi
 | 27 | ![TCB](https://img.shields.io/badge/Technonews-Technology-green) | [Después de 60 años, el ratón de computadora cambia radicalmente](https://www.msn.com/es-es/noticias/tecnologia/%EF%B8%8F-despu%C3%A9s-de-60-a%C3%B1os-el-rat%C3%B3n-de-computadora-cambia-radicalmente/ar-AA1Nw0SX?ocid=BingNewsVerp) |
 | 28 | ![youtube](https://img.shields.io/badge/Youtube-Technology-green) | [AI Narrated](https://www.youtube.com/watch?v=fxVcRn3qUYE) |
 | 29 | ![youtube2](https://img.shields.io/badge/Youtube-Technology-green) | [ESP AI Narrated NotebookLM](https://www.youtube.com/watch?v=h2HTiLIlQKg) |
+| 30 | ![kr1](https://img.shields.io/badge/Digifocus-Technology-green) | [Digital Focus Korean](https://www.digitalfocus.news/news/articleView.html?idxno=14023) |
+
+
 
 
 
