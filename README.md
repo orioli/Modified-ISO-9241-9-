@@ -82,6 +82,10 @@ A provisional patent application related to this work has been filed (U.S. Provi
 | 25 | ![Gadgets 360](https://img.shields.io/badge/Gadgets360-Science-blue) | [Bizarre New Computer Mouse Designs Aim to Cut Wrist Injuries, Scientists Say](https://www.gadgets360.com/science/news/bizarre-new-computer-mouse-designs-aim-to-cut-wrist-injuries-scientists-say-9324148) |
 | 26 | ![LNGFRM](https://img.shields.io/badge/LNGFRM-Technology-green) | [Reinventing the Mouse for Healthier Computing](https://lngfrm.net/reinventing-the-mouse-for-healthier-computing/) |
 | 27 | ![TCB](https://img.shields.io/badge/Technonews-Technology-green) | [Después de 60 años, el ratón de computadora cambia radicalmente](https://www.msn.com/es-es/noticias/tecnologia/%EF%B8%8F-despu%C3%A9s-de-60-a%C3%B1os-el-rat%C3%B3n-de-computadora-cambia-radicalmente/ar-AA1Nw0SX?ocid=BingNewsVerp) |
+| 28 | ![youtube](https://img.shields.io/badge/Youtube-Technology-green) | [AI Narrated](https://www.youtube.com/watch?v=fxVcRn3qUYE) |
+| 29 | ![youtube2](https://img.shields.io/badge/Youtube-Technology-green) | [ESP AI Narrated NotebookLM](https://www.youtube.com/watch?v=h2HTiLIlQKg) |
+
+
 
 
 
