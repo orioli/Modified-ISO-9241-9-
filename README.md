@@ -34,8 +34,8 @@
 | 30 | ![kr1](https://img.shields.io/badge/Digifocus-Technology-green) | [Digital Focus Korean](https://www.digitalfocus.news/news/articleView.html?idxno=14023) |
 | 31 | ![kr1](https://img.shields.io/badge/Chip-Technology-green) | [Chip Turkish](https://www.gismeteo.ru/news/health/novye-kompjuternye-myshi-obeshhajut-izbavit-ot-hronicheskoj-boli/) |
 | 32 | ![kr1](https://img.shields.io/badge/DkNews-Technology-green) | [Dknews](https://dknews.kz/ru/dk-it/368961-uchenyy-iz-nu-prizyvaet-pereosmyslit-dizayn) |
-| 33 | ![kr1](https://img.shields.io/badge/IgBRA-Technology-green) | [Ig](https://www.instagram.com/p/DOzLjo7gbYO/) |
-
+| 33 | ![kr2](https://img.shields.io/badge/IgBRA-Technology-green) | [Ig](https://www.instagram.com/p/DOzLjo7gbYO/) |
+| 34 | ![kr2](https://img.shields.io/badge/gadgets360-Technology-green) | [gadgets360](https://www.gadgets360.com/science/news/bizarre-new-computer-mouse-designs-aim-to-cut-wrist-injuries-scientists-say-9324148/) |
 
 
 
