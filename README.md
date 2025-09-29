@@ -85,6 +85,9 @@ A provisional patent application related to this work has been filed (U.S. Provi
 | 28 | ![youtube](https://img.shields.io/badge/Youtube-Technology-green) | [AI Narrated](https://www.youtube.com/watch?v=fxVcRn3qUYE) |
 | 29 | ![youtube2](https://img.shields.io/badge/Youtube-Technology-green) | [ESP AI Narrated NotebookLM](https://www.youtube.com/watch?v=h2HTiLIlQKg) |
 | 30 | ![kr1](https://img.shields.io/badge/Digifocus-Technology-green) | [Digital Focus Korean](https://www.digitalfocus.news/news/articleView.html?idxno=14023) |
+| 31 | ![kr1](https://img.shields.io/badge/Chip-Technology-green) | [Chip Turkish](https://www.gismeteo.ru/news/health/novye-kompjuternye-myshi-obeshhajut-izbavit-ot-hronicheskoj-boli/) |
+
+
 
 
 
