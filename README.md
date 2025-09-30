@@ -37,6 +37,8 @@
 | 33 | ![kr2](https://img.shields.io/badge/IgBRA-Technology-green) | [Ig](https://www.instagram.com/p/DOzLjo7gbYO/) |
 | 34 | ![kr2](https://img.shields.io/badge/gadgets360-Technology-green) | [gadgets360](https://www.gadgets360.com/science/news/bizarre-new-computer-mouse-designs-aim-to-cut-wrist-injuries-scientists-say-9324148/) |
 | 35 | ![kr1](https://img.shields.io/badge/Itoim-Technology-green) | [Itoim](https://www.itoim.com/article/en/9680/ai-generated-computer-mouse-designs%3A-radical-prototypes-that-could-end-wrist-pain-forever%253F.html) |
+| 36 | ![kg](https://img.shields.io/badge/KGTimes-Japan-yellow) | [Kagnamtimes](https://www.kangnamtimes.com/ja/report/article/536868/) |
+
 
 
 
