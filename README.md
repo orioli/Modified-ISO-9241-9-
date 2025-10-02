@@ -39,6 +39,8 @@
 | 36 | ![kg](https://img.shields.io/badge/KGTimes-Japan-yellow) | [Kagnamtimes](https://www.kangnamtimes.com/ja/report/article/536868/) |
 | 37 | ![tk](https://img.shields.io/badge/TechnoScience-Spain-brown) | [After 60 years...](https://www.techno-science.net/en/news/after-60-years-the-computer-mouse-is-radically-changing-N27609.html) |
 | 38 | ![tk3](https://img.shields.io/badge/Gadgets-360-teal) | [Bizarre New Computer Mouse Designs Aim to Cut Wrist Injuries, Scientists Say](https://www.gadgets360.com/science/news/bizarre-new-computer-mouse-designs-aim-to-cut-wrist-injuries-scientists-say-9324148) |
+| 39 | ![tk4](https://img.shields.io/badge/cool3c-CN-teal) | [號稱可改善手腕不適的新型滑鼠問世](https://www.cool3c.com/article/243331) |
+
 
 
 
