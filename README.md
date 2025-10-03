@@ -49,6 +49,7 @@
 | 49 | ![Skript](https://img.shields.io/badge/Skript-SK-cyan) | [Po 62 rokoch prichádza revolúcia, ktorá pochová PC myš – toto ju nahradí](https://www.skript.sk/po-62-rokoch-prichadza-revolucia-ktora-pochova-pc-mys-toto-ju-nahradi/) |
 | 50 | ![Benchmark](https://img.shields.io/badge/Benchmark-PL-lightgreen) | [Bezkontuzyjne myszki](https://www.benchmark.pl/aktualnosci/bezkontuzyjne-myszki.html) |
 | 51 | ![ZDNet](https://img.shields.io/badge/ZDNet-KR-magenta) | [ZDNet article](https://zdnet.co.kr/view/?no=20250925085457) |
+| 52 | ![Bing News](https://img.shields.io/badge/BingNews-EN-blue) | [Fleximouse – Bing News Search](https://www.bing.com/news/search?q=fleximouse&go=%D8%A8%D8%AD%D8%AB&qs=ds&form=QBNT) |
 
 
 
