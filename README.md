@@ -21,28 +21,38 @@
 | 17 | ![Dunya News](https://img.shields.io/badge/Dunya%20News-Article-darkgreen) | [Farewell to computer mouse as two prototype mouse designs developed](https://dunyanews.tv/en/Technology/907711-farewell-to-computer-mouse-as-two-prototype-mouse-designs-developed-) |
 | 18 | ![Popular Science Korea](https://img.shields.io/badge/PopSci%20Korea-Article-pink) | [연구진, 손으로 쥘 수 있는 말랑한 컴퓨터 마우스 개발](https://www.popsci.co.kr/news/articleView.html?idxno=23910) |
 | 19 | ![Canaltech](https://img.shields.io/badge/Canaltech-Article-brown) | [Adeus, mouse: novos (porém bizarros) formatos reduzirão lesões, aponta estudo](https://canaltech.com.br/saude/adeus-mouse-novos-porem-bizarros-formatos-reduzirao-lesoes-aponta-estudo/) |
-| 20 | ![Media Indonesia](https://img.shields.io/badge/Media%20Indonesia-Article-teal) | [Mouse komputer mulai tergusur, inovasi baru lebih sehat untuk pergelangan tangan](https://mediaindonesia.com/teknologi/812953/mouse-komputer-mulai-tergusur-inovasi-baru-lebih-sehat-untuk-pergelangan-tangan#goog_rewarded) |
-| 21 | ![TienPhong](https://img.shields.io/badge/Tienphong-Newspaper-teal) | [Thiết kế mới lạ của chuột máy tính giúp giảm chấn thương cổ tay](https://tienphong.vn/thiet-ke-moi-la-cua-chuot-may-tinh-giup-giam-chan-thuong-co-tay-post1780216.tpo) |
-| 22 | ![Raport](https://img.shields.io/badge/Raport-Newspaper-orange) | [Zaboravite na stari miš: Novi dizajni obećavaju kraj bolnih zglobova](https://raport.ba/zaboravite-na-stari-mis-novi-dizajni-obecavaju-kraj-bolnih-zglobova-ali-izgledaju-precudno/#google_vignette) |
-| 23 | ![4PDA](https://img.shields.io/badge/4PDA-Newspaper-blue) | [«Научные» корпуса для мыши защитят пользователей от туннельного синдрома](https://4pda.to/2025/09/22/447287/nauchnye_korpusa_dlya_myshi_zaschityat_polzovatelej_ot_tunnelnogo_sindroma/) |
-| 24 | ![dzen](https://img.shields.io/badge/dzen-Newspaper-red) | [Исследователи создали мягкую компьютерную мышь, которую можно сжимать](https://dzen.ru/a/aNERk-Ojgg8L84xO) |
-| 26 | ![LNGFRM](https://img.shields.io/badge/LNGFRM-Technology-green) | [Reinventing the Mouse for Healthier Computing](https://lngfrm.net/reinventing-the-mouse-for-healthier-computing/) |
-| 27 | ![TCB](https://img.shields.io/badge/Technonews-Technology-green) | [Después de 60 años, el ratón de computadora cambia radicalmente](https://www.msn.com/es-es/noticias/tecnologia/%EF%B8%8F-despu%C3%A9s-de-60-a%C3%B1os-el-rat%C3%B3n-de-computadora-cambia-radicalmente/ar-AA1Nw0SX?ocid=BingNewsVerp) |
-| 28 | ![youtube](https://img.shields.io/badge/Youtube-Technology-green) | [AI Narrated](https://www.youtube.com/watch?v=fxVcRn3qUYE) |
-| 29 | ![youtube2](https://img.shields.io/badge/Youtube-Technology-green) | [ESP AI Narrated NotebookLM](https://www.youtube.com/watch?v=h2HTiLIlQKg) |
-| 30 | ![kr1](https://img.shields.io/badge/Digifocus-Technology-green) | [Digital Focus Korean](https://www.digitalfocus.news/news/articleView.html?idxno=14023) |
-| 31 | ![kr1](https://img.shields.io/badge/Chip-Technology-green) | [Chip Turkish](https://www.gismeteo.ru/news/health/novye-kompjuternye-myshi-obeshhajut-izbavit-ot-hronicheskoj-boli/) |
-| 32 | ![kr1](https://img.shields.io/badge/DkNews-Technology-green) | [Dknews](https://dknews.kz/ru/dk-it/368961-uchenyy-iz-nu-prizyvaet-pereosmyslit-dizayn) |
-| 33 | ![kr2](https://img.shields.io/badge/IgBRA-Technology-green) | [Ig](https://www.instagram.com/p/DOzLjo7gbYO/) |
-| 34 | ![kr2](https://img.shields.io/badge/gadgets360-Technology-green) | [gadgets360](https://www.gadgets360.com/science/news/bizarre-new-computer-mouse-designs-aim-to-cut-wrist-injuries-scientists-say-9324148/) |
-| 35 | ![kr1](https://img.shields.io/badge/Itoim-Technology-green) | [Itoim](https://www.itoim.com/article/en/9680/ai-generated-computer-mouse-designs%3A-radical-prototypes-that-could-end-wrist-pain-forever%253F.html) |
-| 36 | ![kg](https://img.shields.io/badge/KGTimes-Japan-yellow) | [Kagnamtimes](https://www.kangnamtimes.com/ja/report/article/536868/) |
-| 37 | ![tk](https://img.shields.io/badge/TechnoScience-Spain-brown) | [After 60 years...](https://www.techno-science.net/en/news/after-60-years-the-computer-mouse-is-radically-changing-N27609.html) |
-| 38 | ![tk3](https://img.shields.io/badge/Gadgets-360-teal) | [Bizarre New Computer Mouse Designs Aim to Cut Wrist Injuries, Scientists Say](https://www.gadgets360.com/science/news/bizarre-new-computer-mouse-designs-aim-to-cut-wrist-injuries-scientists-say-9324148) |
-| 39 | ![tk4](https://img.shields.io/badge/cool3c-CN-teal) | [號稱可改善手腕不適的新型滑鼠問世](https://www.cool3c.com/article/243331) |
-| 40 | ![sotutto](https://img.shields.io/badge/Sotutto-IT-teal) | [Doppp 60 anni...](https://sotutto.it/dopo-60-anni-il-mouse-del-computer-cambia-radicalmente/) |
-| 41 | ![eng1](https://img.shields.io/badge/EngTech-IT-teal) | [Beyond the Click: New Mouse Designs Aimed at Preventing Wrist Strain](https://engtechnica.com/beyond-the-click-new-mouse-designs-aimed-at-preventing-wrist-strain/) |
-
+| 20 | ![Media Indonesia](https://img.shields.io/badge/MediaIndonesia-ID-teal) | [Mouse komputer mulai tergusur, inovasi baru lebih sehat untuk pergelangan tangan](https://mediaindonesia.com/teknologi/812953/mouse-komputer-mulai-tergusur-inovasi-baru-lebih-sehat-untuk-pergelangan-tangan#goog_rewarded) |
+| 21 | ![TienPhong](https://img.shields.io/badge/TienPhong-VN-green) | [Thiết kế mới lạ của chuột máy tính giúp giảm chấn thương cổ tay](https://tienphong.vn/thiet-ke-moi-la-cua-chuot-may-tinh-giup-giam-chan-thuong-co-tay-post1780216.tpo) |
+| 22 | ![Raport](https://img.shields.io/badge/Raport-BA-orange) | [Zaboravite na stari miš: Novi dizajni obećavaju kraj bolnih zglobova, ali izgledaju prečudno](https://raport.ba/zaboravite-na-stari-mis-novi-dizajni-obecavaju-kraj-bolnih-zglobova-ali-izgledaju-precudno/#google_vignette) |
+| 23 | ![4PDA](https://img.shields.io/badge/4PDA-RU-blue) | [«Научные» корпуса для мыши защитят пользователей от туннельного синдрома](https://4pda.to/2025/09/22/447287/nauchnye_korpusa_dlya_myshi_zaschityat_polzovatelej_ot_tunnelnogo_sindroma/) |
+| 24 | ![Dzen](https://img.shields.io/badge/Dzen-RU-red) | [Исследователи создали мягкую компьютерную мышь, которую можно сжимать](https://dzen.ru/a/aNERk-Ojgg8L84xO) |
+| 25 | ![Gadgets360](https://img.shields.io/badge/Gadgets360-EN-blue) | [Bizarre New Computer Mouse Designs Aim to Cut Wrist Injuries, Scientists Say](https://www.gadgets360.com/science/news/bizarre-new-computer-mouse-designs-aim-to-cut-wrist-injuries-scientists-say-9324148) |
+| 26 | ![LNGFRM](https://img.shields.io/badge/LNGFRM-EN-green) | [Reinventing the Mouse for Healthier Computing](https://lngfrm.net/reinventing-the-mouse-for-healthier-computing/) |
+| 27 | ![MSN España](https://img.shields.io/badge/MSN-ES-darkgreen) | [Después de 60 años, el ratón de computadora cambia radicalmente](https://www.msn.com/es-es/noticias/tecnologia/%EF%B8%8F-despu%C3%A9s-de-60-a%C3%B1os-el-rat%C3%B3n-de-computadora-cambia-radicalmente/ar-AA1Nw0SX?ocid=BingNewsVerp) |
+| 28 | ![YouTube](https://img.shields.io/badge/YouTube-EN-red) | [AI Narrated: Flexible Mouse Report](https://www.youtube.com/watch?v=fxVcRn3qUYE) |
+| 29 | ![YouTube](https://img.shields.io/badge/YouTube-ES-red) | [Narración AI en Español – NotebookLM sobre nuevos diseños de mouse](https://www.youtube.com/watch?v=h2HTiLIlQKg) |
+| 30 | ![DigitalFocus](https://img.shields.io/badge/DigitalFocus-KR-purple) | [새로운 인체공학적 컴퓨터 마우스 디자인 발표](https://www.digitalfocus.news/news/articleView.html?idxno=14023) |
+| 31 | ![Gismeteo](https://img.shields.io/badge/Gismeteo-RU-lightblue) | [Новые компьютерные мыши обещают избавить от хронической боли](https://www.gismeteo.ru/news/health/novye-kompjuternye-myshi-obeshhajut-izbavit-ot-hronicheskoj-boli/) |
+| 32 | ![DKNews](https://img.shields.io/badge/DKNews-KZ-brown) | [Ученый из NU призывает переосмыслить дизайн компьютерной мыши](https://dknews.kz/ru/dk-it/368961-uchenyy-iz-nu-prizyvaet-pereosmyslit-dizayn) |
+| 33 | ![Instagram](https://img.shields.io/badge/Instagram-EN-pink) | [Fleximouse Instagram Post](https://www.instagram.com/p/DOzLjo7gbYO/) |
+| 34 | ![Gadgets360](https://img.shields.io/badge/Gadgets360-EN-blue) | [Bizarre New Computer Mouse Designs Aim to Cut Wrist Injuries, Scientists Say](https://www.gadgets360.com/science/news/bizarre-new-computer-mouse-designs-aim-to-cut-wrist-injuries-scientists-say-9324148/) |
+| 35 | ![Itoim](https://img.shields.io/badge/Itoim-EN-darkblue) | [AI-Generated Computer Mouse Designs: Radical Prototypes That Could End Wrist Pain Forever?](https://www.itoim.com/article/en/9680/ai-generated-computer-mouse-designs%3A-radical-prototypes-that-could-end-wrist-pain-forever%253F.html) |
+| 36 | ![KangnamTimes](https://img.shields.io/badge/KangnamTimes-JP-yellow) | [コンピューターマウスのデザインを見直すべき時が来た](https://www.kangnamtimes.com/ja/report/article/536868/) |
+| 37 | ![Techno-Science](https://img.shields.io/badge/TechnoScience-FR-darkorange) | [After 60 Years, the Computer Mouse Is Radically Changing](https://www.techno-science.net/en/news/after-60-years-the-computer-mouse-is-radically-changing-N27609.html) |
+| 38 | ![Gadgets360](https://img.shields.io/badge/Gadgets360-EN-blue) | [Bizarre New Computer Mouse Designs Aim to Cut Wrist Injuries, Scientists Say](https://www.gadgets360.com/science/news/bizarre-new-computer-mouse-designs-aim-to-cut-wrist-injuries-scientists-say-9324148) |
+| 39 | ![Cool3C](https://img.shields.io/badge/Cool3C-TW-teal) | [號稱可改善手腕不適的新型滑鼠問世](https://www.cool3c.com/article/243331) |
+| 40 | ![SoTutto](https://img.shields.io/badge/SoTutto-IT-green) | [Dopo 60 anni il mouse del computer cambia radicalmente](https://sotutto.it/dopo-60-anni-il-mouse-del-computer-cambia-radicalmente/) || 41 | ![eng1](https://img.shields.io/badge/EngTech-IT-teal) | [Beyond the Click: New Mouse Designs Aimed at Preventing Wrist Strain](https://engtechnica.com/beyond-the-click-new-mouse-designs-aimed-at-preventing-wrist-strain/) |
+| 42 | ![news.am](https://img.shields.io/badge/news.am-RU-gray) | [Новости.am article](https://news.am/rus/news/905646.html) |
+| 43 | ![Guruhitech](https://img.shields.io/badge/Guruhitech-IT-green) | [Addio tunnel carpale: arrivano i mouse scientifici che proteggono le mani](https://guruhitech.com/addio-tunnel-carpale-arrivano-i-mouse-scientifici-che-proteggono-le-mani/) |
+| 44 | ![Sohu](https://img.shields.io/badge/Sohu-ZH-red) | [Sohu article](https://www.sohu.com/a/936851871_122396381) |
+| 45 | ![FotisLiarokapis](https://img.shields.io/badge/FotisLiarokapis-EN-blue) | [Re-inventing Mouse](https://fotisliarokapis.blogspot.com/2025/09/re-inventing-mouse.html) |
+| 46 | ![Guruhitech](https://img.shields.io/badge/Guruhitech-IT-green) | [Addio tunnel carpale: arrivano i mouse scientifici che proteggono le mani](https://guruhitech.com/addio-tunnel-carpale-arrivano-i-mouse-scientifici-che-proteggono-le-mani/) |
+| 47 | ![PopScienceMain](https://img.shields.io/badge/PopScienceMain-EN-orange) | [PopScienceMain article](https://popsciencemain.livejournal.com/9125186.html) |
+| 48 | ![SmartPress](https://img.shields.io/badge/SmartPress-RU-purple) | [Прощай, компьютерная мышка: ученые предлагают странные, но полезные замены привычному гаджету](https://smartpress.by/news/proshchay-kompyuternaya-myshka-uchenye-predlagayut-strannye-no-poleznye-zameny-privychnomu-gadzhetu/) |
+| 49 | ![Skript](https://img.shields.io/badge/Skript-SK-cyan) | [Po 62 rokoch prichádza revolúcia, ktorá pochová PC myš – toto ju nahradí](https://www.skript.sk/po-62-rokoch-prichadza-revolucia-ktora-pochova-pc-mys-toto-ju-nahradi/) |
+| 50 | ![4PDA](https://img.shields.io/badge/4PDA-RU-blue) | [«Научные» корпуса для мыши защитят пользователей от туннельного синдрома](https://4pda.to/2025/09/22/447287/nauchnye_korpusa_dlya_myshi_zaschityat_polzovatelej_ot_tunnelnogo_sindroma/) |
+| 51 | ![Benchmark](https://img.shields.io/badge/Benchmark-PL-lightgreen) | [Bezkontuzyjne myszki](https://www.benchmark.pl/aktualnosci/bezkontuzyjne-myszki.html) |
+| 52 | ![ZDNet](https://img.shields.io/badge/ZDNet-KR-magenta) | [ZDNet article](https://zdnet.co.kr/view/?no=20250925085457) |
 
 
 
