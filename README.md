@@ -53,6 +53,25 @@
 | 55 | ![Nabd](https://img.shields.io/badge/Nabd-AR-green) | [تصاميم جديدة لفأرة الكمبيوتر تنهي إصابات المعصم](https://nabdapp.com/t/161365433) |
 | 56 | ![Sahafahh](https://img.shields.io/badge/Sahafahh-AR-blue) | [تصاميم جديدة لفأرة الكمبيوتر تنهي إصابات المعصم](https://www.sahafahh.com/show24031914.html) |
 
+
+| Language | Flag | Count (Unique if noted) |
+|----------|------|--------------------------|
+| English (EN) | 🇬🇧 | 21 (18 unique) |
+| Korean (KR) | 🇰🇷 | 3 |
+| Japanese (JP) | 🇯🇵 | 2 |
+| Russian (RU) | 🇷🇺 | 5 |
+| Chinese (ZH/TW) | CH | 2 |
+| Arabic (AR) | AR | 3 |
+| Italian (IT) | 🇮🇹 | 2 unique (3 incl. dup) |
+| Greek (EL) | 🇬🇷 | 1 |
+| Spanish (ES) | 🇪🇸 | 1 |
+| Vietnamese (VN) | 🇻🇳 | 1 |
+| Portuguese (BR) | 🇧🇷 | 1 |
+| Bosnian (BA) | 🇧🇦 | 1 |
+| Slovak (SK) | 🇸🇰 | 1 |
+| Polish (PL) | 🇵🇱 | 1 |
+| French (FR) | 🇫🇷 | 1 |
+| Kazakh (KZ) | 🇰🇿 | 1 |
 ### Fleximouse
 Watch the video here: [Youtube](https://youtube.com/playlist?list=PL8Ob471RcQSDtlxx66lxihxfww_0dLFrz&si=DlGAZF54hJgAhNmD)
 
