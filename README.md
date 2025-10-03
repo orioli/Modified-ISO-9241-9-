@@ -50,8 +50,8 @@
 | 50 | ![Benchmark](https://img.shields.io/badge/Benchmark-PL-lightgreen) | [Bezkontuzyjne myszki](https://www.benchmark.pl/aktualnosci/bezkontuzyjne-myszki.html) |
 | 51 | ![ZDNet](https://img.shields.io/badge/ZDNet-KR-magenta) | [ZDNet article](https://zdnet.co.kr/view/?no=20250925085457) |
 | 54 | ![Youm7](https://img.shields.io/badge/Youm7-AR-red) | [تصميم جديدة لفأرة الكومبيوتر تنهي إصابات المعصم – تفاصيل](https://www.youm7.com/story/2025/9/24/%D8%AA%D8%B5%D8%A7%D9%85%D9%8A%D9%85-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%81%D8%A3%D8%B1%D8%A9-%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1-%D8%AA%D9%86%D9%87%D9%89-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B9%D8%B5%D9%85-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/7129813#google_vignette) |
-
-
+| 55 | ![Nabd](https://img.shields.io/badge/Nabd-AR-green) | [تصاميم جديدة لفأرة الكمبيوتر تنهي إصابات المعصم](https://nabdapp.com/t/161365433) |
+| 56 | ![Sahafahh](https://img.shields.io/badge/Sahafahh-AR-blue) | [تصاميم جديدة لفأرة الكمبيوتر تنهي إصابات المعصم](https://www.sahafahh.com/show24031914.html) |
 
 ### Fleximouse
 Watch the video here: [Youtube](https://youtube.com/playlist?list=PL8Ob471RcQSDtlxx66lxihxfww_0dLFrz&si=DlGAZF54hJgAhNmD)
