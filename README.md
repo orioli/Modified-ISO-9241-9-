@@ -50,9 +50,8 @@
 | 47 | ![PopScienceMain](https://img.shields.io/badge/PopScienceMain-EN-orange) | [PopScienceMain article](https://popsciencemain.livejournal.com/9125186.html) |
 | 48 | ![SmartPress](https://img.shields.io/badge/SmartPress-RU-purple) | [Прощай, компьютерная мышка: ученые предлагают странные, но полезные замены привычному гаджету](https://smartpress.by/news/proshchay-kompyuternaya-myshka-uchenye-predlagayut-strannye-no-poleznye-zameny-privychnomu-gadzhetu/) |
 | 49 | ![Skript](https://img.shields.io/badge/Skript-SK-cyan) | [Po 62 rokoch prichádza revolúcia, ktorá pochová PC myš – toto ju nahradí](https://www.skript.sk/po-62-rokoch-prichadza-revolucia-ktora-pochova-pc-mys-toto-ju-nahradi/) |
-| 50 | ![4PDA](https://img.shields.io/badge/4PDA-RU-blue) | [«Научные» корпуса для мыши защитят пользователей от туннельного синдрома](https://4pda.to/2025/09/22/447287/nauchnye_korpusa_dlya_myshi_zaschityat_polzovatelej_ot_tunnelnogo_sindroma/) |
-| 51 | ![Benchmark](https://img.shields.io/badge/Benchmark-PL-lightgreen) | [Bezkontuzyjne myszki](https://www.benchmark.pl/aktualnosci/bezkontuzyjne-myszki.html) |
-| 52 | ![ZDNet](https://img.shields.io/badge/ZDNet-KR-magenta) | [ZDNet article](https://zdnet.co.kr/view/?no=20250925085457) |
+| 50 | ![Benchmark](https://img.shields.io/badge/Benchmark-PL-lightgreen) | [Bezkontuzyjne myszki](https://www.benchmark.pl/aktualnosci/bezkontuzyjne-myszki.html) |
+| 51 | ![ZDNet](https://img.shields.io/badge/ZDNet-KR-magenta) | [ZDNet article](https://zdnet.co.kr/view/?no=20250925085457) |
 
 
 
