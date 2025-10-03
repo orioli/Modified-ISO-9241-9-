@@ -49,7 +49,7 @@
 | 49 | ![Skript](https://img.shields.io/badge/Skript-SK-cyan) | [Po 62 rokoch prichádza revolúcia, ktorá pochová PC myš – toto ju nahradí](https://www.skript.sk/po-62-rokoch-prichadza-revolucia-ktora-pochova-pc-mys-toto-ju-nahradi/) |
 | 50 | ![Benchmark](https://img.shields.io/badge/Benchmark-PL-lightgreen) | [Bezkontuzyjne myszki](https://www.benchmark.pl/aktualnosci/bezkontuzyjne-myszki.html) |
 | 51 | ![ZDNet](https://img.shields.io/badge/ZDNet-KR-magenta) | [ZDNet article](https://zdnet.co.kr/view/?no=20250925085457) |
-| 52 | ![Bing News](https://img.shields.io/badge/BingNews-EN-blue) | [Fleximouse – Bing News Search](https://www.bing.com/news/search?q=fleximouse&go=%D8%A8%D8%AD%D8%AB&qs=ds&form=QBNT) |
+| 54 | ![Youm7](https://img.shields.io/badge/Youm7-AR-red) | [تصميم جديدة لفأرة الكومبيوتر تنهي إصابات المعصم – تفاصيل](https://www.youm7.com/story/2025/9/24/%D8%AA%D8%B5%D8%A7%D9%85%D9%8A%D9%85-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%81%D8%A3%D8%B1%D8%A9-%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1-%D8%AA%D9%86%D9%87%D9%89-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B9%D8%B5%D9%85-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/7129813#google_vignette) |
 
 
 
